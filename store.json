@@ -1,0 +1,38 @@
+[
+    {
+        "img": "./img/avatar_1.jpg",
+        "titolo": "tit1",  
+        "autore": "aut1",  
+        "anno": "1999" 
+    },
+    {
+        "img": "./img/avatar_2.jpg",
+        "titolo": "tit2",  
+        "autore": "aut2",  
+        "anno": "1999" 
+    },
+    {
+        "img": "./img/avatar_3.jpg",
+        "titolo": "tit3",  
+        "autore": "aut3",  
+        "anno": "1999" 
+    },
+    {
+        "img": "./img/avatar_4.jpg",
+        "titolo": "tit4",  
+        "autore": "aut4",  
+        "anno": "1999" 
+    },
+    {
+        "img": "./img/avatar_5.jpg",
+        "titolo": "tit5",  
+        "autore": "aut5",  
+        "anno": "1999" 
+    },
+    {
+        "img": "./img/avatar_6.jpg",
+        "titolo": "tit6",  
+        "autore": "aut6",  
+        "anno": "1999" 
+    }
+]
